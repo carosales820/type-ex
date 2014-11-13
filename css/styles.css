@@ -1,5 +1,24 @@
 /* Your Website Styles */
+body {
+	font-family: 'Oswald', sans-serif;
+	background: url("../img/bg.png");
+}
 
+h1 {
+	font-family: 'Sigmar One', cursive;
+	color: #A82207;
+}
+ p {
+ 	color: #9D6518;
+ }
+
+ h1+p {
+ 	color: #A82207;
+ }
+
+ h2	{
+ 	color: #9D6518;
+ }
 
 /* Show Grid */
 .showgrid {
